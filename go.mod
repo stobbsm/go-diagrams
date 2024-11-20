@@ -1,4 +1,4 @@
-module github.com/blushft/go-diagrams
+module github.om/stobbsm/go-diagrams
 
 go 1.14
 

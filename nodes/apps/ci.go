@@ -1,6 +1,6 @@
 package apps
 
-import "github.com/blushft/go-diagrams/diagram"
+import "github.com/stobbsm/go-diagrams/diagram"
 
 type ciContainer struct {
 	path string
